@@ -1,0 +1,21 @@
+p {
+    background-color:yellow;
+    height:400px;
+    width:600px;
+    border-radius: 3%;
+}
+
+.select {
+    width: 450px;
+    margin-top: 10px;
+}
+
+.heading{
+    font-size: 40px;
+    font-weight: bolder;
+    text-shadow: 1px 1px 4px red;
+}
+
+body {
+    background-color:violet;
+}
